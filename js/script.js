@@ -1,4 +1,5 @@
 /**
+ * 100% funcional
  * Estado da aplicação (state)
  * */
 

@@ -1,4 +1,4 @@
-Exercico Guiado
+Exercício Guiado
 ===============
 
 Check ✓
